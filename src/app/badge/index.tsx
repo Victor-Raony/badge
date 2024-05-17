@@ -33,7 +33,7 @@ export function Badge() {
 
         <ImageBackground style={styles.background} source={require("@/assets/header.png")}>
           <View style={styles.header}>
-            <Text style={styles.company}>Nome da empresa</Text>
+            <Text style={styles.company}>Codigo de acesso</Text>
             <Text style={styles.id}>#123456</Text>
           </View>
 

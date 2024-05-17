@@ -59,7 +59,7 @@ export const styles = StyleSheet.create({
   },
   email: {
     color: "#CECECE",
-    fontSize: 22,
+    fontSize: 20,
     fontWeight: "bold",
     marginTop: 24
   }
